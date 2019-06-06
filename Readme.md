@@ -9,7 +9,7 @@ This repo has terraform scripts to deploy infrastructure on AWS which includes
 - EC2 instances (Instances running application as docker images)
 - S3 buckets (File system storage)
 
-*NOTE: We are still in process of fully automating all the steps, until then please run the steps given below in sequence.*
+*NOTE: I am still in process of fully automating all the steps, until then please run the steps given below in sequence.*
 
 ## Standing up the stack
 
